@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginSmall">4dp</dimen>
+    <dimen name="basicMargin">8dp</dimen>
+    <dimen name="margin2">16dp</dimen>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="smallTextSize">14sp</dimen>
+    <dimen name="biggerTextSize">18sp</dimen>
+    <dimen name="bigTextSize">50sp</dimen>
+    <dimen name="pointButtonWidth">65dp</dimen>
+    <dimen name="smallButtonTextSize">10sp</dimen>
+</resources>
